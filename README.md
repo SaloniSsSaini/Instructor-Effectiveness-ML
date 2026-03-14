@@ -174,6 +174,7 @@ Libraries:
 ## Project Structure
 
 project-folder
+
 │
 ├── project.ipynb
 ├── app.py
